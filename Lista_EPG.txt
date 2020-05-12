@@ -1,1 +1,6 @@
-https://github.com/vmax1980/LEOPARDO/blob/master/guide.xml
+description=ListaEPG 
+protocol=xmltv
+channels_url_0=https://github.com/vmax1980/LEOPARDO/blob/master/guide.xml.gz
+epg_url_0=https://github.com/vmax1980/LEOPARDO/blob/master/guide.xml.gz
+preferred_language=spa
+
