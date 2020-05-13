@@ -1,1211 +1,359 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.10.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="#0">
-    <display-name lang="es">#0</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV3.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="#0 HD">
-    <display-name lang="es">#0 HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV3.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="#VAMOS">
-    <display-name lang="es">#VAMOS</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/VAMOSD.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="#VAMOS HD">
-    <display-name lang="es">#VAMOS HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/VAMOSD.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="13TV">
-    <display-name lang="es">13 TV</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/13TV.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="3/24">
-    <display-name lang="es">3/24</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/3_24.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="24 HORAS">
-    <display-name lang="es">24 HORAS</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/24H.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="24h">
-    <display-name lang="es">24h</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/24H.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ALQUILER 1">
-    <display-name lang="es">ALQUILER 1</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TQ1.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ALQUILER HD">
-    <display-name lang="es">ALQUILER HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/HDTQ10.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ALQUILER 2 HD">
-    <display-name lang="es">ALQUILER 2 HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/HDTQ2.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ALQUILER 2">
-    <display-name lang="es">ALQUILER 2</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TQ2.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ALQUILER 3">
-    <display-name lang="es">ALQUILER 3</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TQ3.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ALQUILER 4">
-    <display-name lang="es">ALQUILER 4</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TQ4.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ALQUILER 5">
-    <display-name lang="es">ALQUILER 5</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TQ5.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ALQUILER 6">
-    <display-name lang="es">ALQUILER 6</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TQ6.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ALQUILER X">
-    <display-name lang="es">ALQUILER X</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TQX1.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ALQUILER XX">
-    <display-name lang="es">ALQUILER XX</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TQX2.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ALQ XXHARD">
-    <display-name lang="es">ALQ XXHARD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TQX3.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ALQUILER XY">
-    <display-name lang="es">ALQUILER XY</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TQY1.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ANDALUCÍA TV">
-    <display-name lang="es">ANDALUCÍA TV</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ANDATV.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="AndaluciaTV">
-    <display-name lang="es">AndaluciaTV</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ANDATV.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="MULTI-X 1">
-    <display-name lang="es">MULTI-X 1</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TQMLTX.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="MULTI-X 2">
-    <display-name lang="es">MULTI-X 2</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TQMLTX.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="MULTI-X 3">
-    <display-name lang="es">MULTI-X 3</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TQMLTX.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="A&amp;E">
-    <display-name lang="es">A&amp;E</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/BIOGRA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Al Jazeera English">
-    <display-name lang="es">Al Jazeera English</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ALJAZE.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="AMC">
-    <display-name lang="es">AMC</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/AMC.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="AMC HD">
-    <display-name lang="es">AMC HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/AMC.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ANTENA 3">
-    <display-name lang="es">ANTENA 3</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/A3.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ANTENA 3 HD">
-    <display-name lang="es">ANTENA 3 HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/A3.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="antena3 HD">
-    <display-name lang="es">antena3 HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/A3.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ARAGON TV INT">
-    <display-name lang="es">ARAGON TV INT</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ARAGON.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Arirang TV">
-    <display-name lang="es">Arirang TV</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ARIRAN.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ATRESERIES">
-    <display-name lang="es">ATRESERIES</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ATRESS.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="atreseries HD">
-    <display-name lang="es">atreseries HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ATRESS.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="AXN">
-    <display-name lang="es">AXN</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/AXN.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="AXN HD">
-    <display-name lang="es">AXN HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/AXN.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="AXN WHITE">
-    <display-name lang="es">AXN WHITE</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/SET.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="AXN WHITE HD">
-    <display-name lang="es">AXN WHITE HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/SET.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="BAR TV">
-    <display-name lang="es">BAR TV</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/BARNA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="BABY TV">
-    <display-name lang="es">BABY TV</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/BABY.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="BBC World News Europe HD">
-    <display-name lang="es">BBC World News Europe HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/BBC.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="BeMad tv HD">
-    <display-name lang="es">BeMad tv HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/BEMAD.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="BE MAD">
-    <display-name lang="es">BE MAD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/BEMAD.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="BLAZE">
-    <display-name lang="es">BLAZE</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/BIOGRA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Betevé">
-    <display-name lang="es">Betevé</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/BTV.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Bloomberg Europe TV">
-    <display-name lang="es">Bloomberg Europe TV</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/BL.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="BOING">
-    <display-name lang="es">BOING</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/BOING.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Boing">
-    <display-name lang="es">Boing</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/BOING.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CALLE 13">
-    <display-name lang="es">CALLE 13</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CL13.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CALLE 13 HD">
-    <display-name lang="es">CALLE 13 HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CL13.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CANAL COCINA">
-    <display-name lang="es">CANAL COCINA</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CACOC.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CANAL DECASA">
-    <display-name lang="es">CANAL DECASA</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/DECASA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="EXTREMADURA SAT">
-    <display-name lang="es">EXTREMADURA SAT</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/EXTRE.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CANAL ODISEA">
-    <display-name lang="es">CANAL ODISEA</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ODISEA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CANAL ORBE21">
-    <display-name lang="es">CANAL ORBE21</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ORBE21.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CANAL PANDA">
-    <display-name lang="es">CANAL PANDA</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/PANDA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CANAL SUR HD">
-    <display-name lang="es">CANAL SUR HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ANTV.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CANAL SUR A.">
-    <display-name lang="es">CANAL SUR A.</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ANTV.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CanalSurHD">
-    <display-name lang="es">CanalSurHD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ANTV.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CAZAyPESCA">
-    <display-name lang="es">CAZAyPESCA</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CAZAyPESCA HD">
-    <display-name lang="es">CAZAyPESCA HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Clan HD">
-    <display-name lang="es">Clan HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CLANTV.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CLAN  TVE">
-    <display-name lang="es">CLAN  TVE</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CLANTV.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CLASSICA">
-    <display-name lang="es">CLASSICA</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CLASSI.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CNBC Europe">
-    <display-name lang="es">CNBC Europe</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/NBC.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CNC World">
-    <display-name lang="es">CNC World</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CNCWOR.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CNN Int.">
-    <display-name lang="es">CNN Int.</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CNN.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="COMEDYCENTRAL">
-    <display-name lang="es">COMEDYCENTRAL</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/PCM.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="COMEDYCENTRALHD">
-    <display-name lang="es">COMEDYCENTRALHD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/PCM.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="COSMO">
-    <display-name lang="es">COSMO</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/COSMO.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="COSMO HD">
-    <display-name lang="es">COSMO HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/COSMO.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CRIMEN+INVES">
-    <display-name lang="es">CRIMEN+INVES</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CYM.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CUATRO">
-    <display-name lang="es">CUATRO</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/C4.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Cubavision Internacional">
-    <display-name lang="es">Cubavision Internacional</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CUBAV.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="CUATRO HD">
-    <display-name lang="es">CUATRO HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/C4.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Cuatro HD">
-    <display-name lang="es">Cuatro HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/C4.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Dark">
-    <display-name lang="es">Dark</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/DARK.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="DISCOVERY">
-    <display-name lang="es">DISCOVERY</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCR.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="DMAX">
-    <display-name lang="es">DMAX</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCRMAX.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Disney+">
-    <display-name lang="es">Disney+</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/DISNEY.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="DISNEY CH">
-    <display-name lang="es">DISNEY CH</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCH.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="DISNEY CH HD">
-    <display-name lang="es">DISNEY CH HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCH.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="DISNEY JR">
-    <display-name lang="es">DISNEY JR</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/PLAYDC.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="DISNEY XD">
-    <display-name lang="es">DISNEY XD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCHXD.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="DIVINITY">
-    <display-name lang="es">DIVINITY</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/DIVINI.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Divinity">
-    <display-name lang="es">Divinity</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/DIVINI.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="DKISS">
-    <display-name lang="es">DKISS</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/DKISS.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ENERGY">
-    <display-name lang="es">ENERGY</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ENERGY.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Energy">
-    <display-name lang="es">Energy</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ENERGY.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Esport 3">
-    <display-name lang="es">Esport 3</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ESP3.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ETB 1">
-    <display-name lang="es">ETB 1</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ETB1.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="EURONEWS FRENCH SD">
-    <display-name lang="es">EURONEWS FRENCH SD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ENW.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="EUROSPORT 1">
-    <display-name lang="es">EUROSPORT 1</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ESP.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="EUROSPORT1HD">
-    <display-name lang="es">EUROSPORT1HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ESP.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="EUROSPORT 2">
-    <display-name lang="es">EUROSPORT 2</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ESP2.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="EWTN">
-    <display-name lang="es">EWTN</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/EWTN.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="FDF">
-    <display-name lang="es">FDF</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/FDFIC.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="FOX">
-    <display-name lang="es">FOX</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXGE.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="FOX HD">
-    <display-name lang="es">FOX HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXGE.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="FOX LIFE">
-    <display-name lang="es">FOX LIFE</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXCR.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="FOX LIFE HD">
-    <display-name lang="es">FOX LIFE HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXCR.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="FOX NEWS">
-    <display-name lang="es">FOX NEWS</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXNWS.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Futbol Replay">
-    <display-name lang="es">Fútbol Replay</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/FUTREP.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="France 24 (in English)">
-    <display-name lang="es">France 24 (in English)</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/FRA EN.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="France 24 (en Français)">
-    <display-name lang="es">France 24 (en Français)</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/FRA EN.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="France 24 (in Arabic)">
-    <display-name lang="es">France 24 (in Arabic)</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/FRA EN.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="TVGA">
-    <display-name lang="es">TVGA</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TVG.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Garage TV">
-    <display-name lang="es">Garage TV</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/GARAGE.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="GOL">
-    <display-name lang="es">GOL</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/GOL.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="HISTORIA">
-    <display-name lang="es">HISTORIA</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/HIST.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="HOLLYWOOD">
-    <display-name lang="es">HOLLYWOOD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/HOLLYW.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="HOLLYWOODHD">
-    <display-name lang="es">HOLLYWOODHD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/HOLLYW.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="IBERALIA TV">
-    <display-name lang="es">IBERALIA TV</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/IBERAL.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Intereconomía TV">
-    <display-name lang="es">Intereconomía TV</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/INTECO.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Kiss tv">
-    <display-name lang="es">Kiss tv</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/DKISS.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="LA 1">
-    <display-name lang="es">LA 1</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TVE.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="LA 1 HD">
-    <display-name lang="es">LA 1 HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TVE.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="La 1 HD">
-    <display-name lang="es">La 1 HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TVE.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="La 2 HD">
-    <display-name lang="es">La 2 HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/LA2.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="LA 2">
-    <display-name lang="es">LA 2</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/LA2.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="LA SEXTA">
-    <display-name lang="es">LA SEXTA</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/SEXTA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="LA SEXTA HD">
-    <display-name lang="es">LA SEXTA HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/SEXTA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="laSexta HD">
-    <display-name lang="es">laSexta HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/SEXTA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="LALIGATV BAR">
-    <display-name lang="es">LALIGATV BAR</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/LIGBAR.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="LALIGATVBAR1">
-    <display-name lang="es">LALIGATVBAR1</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/LIGBA1.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="LALIGATVBAR2">
-    <display-name lang="es">LALIGATVBAR2</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/LIGBA2.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="LALIGATVBAR3">
-    <display-name lang="es">LALIGATVBAR3</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/LIGBA3.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="LALIGATVBAR4">
-    <display-name lang="es">LALIGATVBAR4</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/LIGBA4.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Libertad Digital TV">
-    <display-name lang="es">Libertad Digital TV</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/LIBDIG.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="LTC">
-    <display-name lang="es">LTC</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CCLUB.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="MEGA">
-    <display-name lang="es">MEGA</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MEGA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="mega">
-    <display-name lang="es">mega</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MEGA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. ACCION">
-    <display-name lang="es">M. ACCION</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPACCI.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. ACCION HD">
-    <display-name lang="es">M. ACCION HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPACCI.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. ACCI©N HD">
-    <display-name lang="es">M. ACCI©N HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPACCI.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. Cine Español">
-    <display-name lang="es">M. Cine Español</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCESP.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. Cine Espaæol">
-    <display-name lang="es">M. Cine Espaæol</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCESP.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.CineDocRoll">
-    <display-name lang="es">M.CineDocRoll</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPXTRA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. COMEDIA">
-    <display-name lang="es">M. COMEDIA</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOME.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.COMEDIA HD">
-    <display-name lang="es">M.COMEDIA HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOME.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. DEPORTES">
-    <display-name lang="es">M. DEPORTES</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. DEPORTESHD">
-    <display-name lang="es">M. DEPORTESHD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. DEPORTES1">
-    <display-name lang="es">M. DEPORTES1</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ARTHUR.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.DEPORTES1HD">
-    <display-name lang="es">M.DEPORTES1HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ARTHUR.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.WIMBLEDONHD">
-    <display-name lang="es">M.WIMBLEDONHD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/ARTHUR.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. DEPORTES2">
-    <display-name lang="es">M. DEPORTES2</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/USOP2.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. DEPORTES3">
-    <display-name lang="es">M. DEPORTES3</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/USOP3.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. DEPORTES4">
-    <display-name lang="es">M. DEPORTES4</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/USOP11.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. DEPORTES5">
-    <display-name lang="es">M. DEPORTES5</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MULTI8.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. DEPORTES6">
-    <display-name lang="es">M. DEPORTES6</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MULTI6.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. DEPORTES7">
-    <display-name lang="es">M. DEPORTES7</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MULTI9.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. DISNEY">
-    <display-name lang="es">M. DISNEY</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MDISNE.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. DRAMA">
-    <display-name lang="es">M. DRAMA</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOLE.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. DRAMA HD">
-    <display-name lang="es">M. DRAMA HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOLE.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.ESTRENOS">
-    <display-name lang="es">M.ESTRENOS</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV1.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.ESTRENOSHD">
-    <display-name lang="es">M.ESTRENOSHD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV1.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. FAMA 24H">
-    <display-name lang="es">M. FAMA 24H</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MFAMA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. FUTBOL">
-    <display-name lang="es">M. FUTBOL</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPFUT.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.FORMULA1">
-    <display-name lang="es">M.FORMULA1</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.FORMULA1HD">
-    <display-name lang="es">M.FORMULA1HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. GOLF">
-    <display-name lang="es">M. GOLF</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/GOLF%2B.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. GOLF HD">
-    <display-name lang="es">M. GOLF HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/GOLF%2B.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. LaLiga HD">
-    <display-name lang="es">M. LaLiga HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. LaLiga 1 HD">
-    <display-name lang="es">M. LaLiga 1 HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG1.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. LaLiga 2 HD">
-    <display-name lang="es">M. LaLiga 2 HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG2.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. LaLiga 3 HD">
-    <display-name lang="es">M. LaLiga 3 HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG3.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. LaLiga 4">
-    <display-name lang="es">M. LaLiga 4</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG4.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. LaLiga 5">
-    <display-name lang="es">M. LaLiga 5</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG5.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. LaLiga 6">
-    <display-name lang="es">M. LaLiga 6</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG6.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. LaLiga 7">
-    <display-name lang="es">M. LaLiga 7</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG7.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. LaLiga 8">
-    <display-name lang="es">M. LaLiga 8</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG8.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. LaLiga 9">
-    <display-name lang="es">M. LaLiga 9</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG9.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.LCAMPEONES">
-    <display-name lang="es">M.LCAMPEONES</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.LCAMPEON1">
-    <display-name lang="es">M.LCAMPEON1</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP1.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.LCAMPEON2">
-    <display-name lang="es">M.LCAMPEON2</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP2.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.LCAMPEON3">
-    <display-name lang="es">M.LCAMPEON3</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP3.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.LCAMPEON4">
-    <display-name lang="es">M.LCAMPEON4</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP4.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.LCAMPEON5">
-    <display-name lang="es">M.LCAMPEON5</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP5.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.LCAMPEON6">
-    <display-name lang="es">M.LCAMPEON6</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP6.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.LCAMPEON7">
-    <display-name lang="es">M.LCAMPEON7</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP7.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.LCAMPEON8">
-    <display-name lang="es">M.LCAMPEON8</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP8.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. SERIES">
-    <display-name lang="es">M. SERIES</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPSER.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. SERIES HD">
-    <display-name lang="es">M. SERIES HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPSER.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M. SERIESMANIA">
-    <display-name lang="es">M. SERIESMANIA</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV2.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="M.Seriesmania HD">
-    <display-name lang="es">M.Seriesmania HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV2.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="MEZZO LIVE HD">
-    <display-name lang="es">MEZZO LIVE HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MEZOHD.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="MEZZO">
-    <display-name lang="es">MEZZO</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MEZZO.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="MTV ESPAÑA">
-    <display-name lang="es">MTV ESPAÑA</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/MTV.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="MTV ROCKS">
-    <display-name lang="es">MTV ROCKS</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/M2.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="MULTIDEPORTE">
-    <display-name lang="es">MULTIDEPORTE</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPEV.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="NAT GEO">
-    <display-name lang="es">NAT GEO</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/NATGEO.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="NAT GEO HD">
-    <display-name lang="es">NAT GEO HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/NATGEO.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="NAT GEO WILD">
-    <display-name lang="es">NAT GEO WILD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/NATGW.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="NG WILD HD">
-    <display-name lang="es">NG WILD HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/NATGW.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="NHK WORLD-JPN">
-    <display-name lang="es">NHK WORLD-JPN</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/NHK.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="NEOX">
-    <display-name lang="es">NEOX</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/NEOX.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Neox">
-    <display-name lang="es">Neox</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/NEOX.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="NICKELODEON">
-    <display-name lang="es">NICKELODEON</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/NICK.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="NICKELODEONHD">
-    <display-name lang="es">NICKELODEONHD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/NICK.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="NICK JR">
-    <display-name lang="es">NICK JR</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/NICKJR.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Non Stop People">
-    <display-name lang="es">Non Stop People</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/NONSTP.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="NOVA">
-    <display-name lang="es">NOVA</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/NOVA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="nova">
-    <display-name lang="es">nova</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/NOVA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="PARAMOUNT">
-    <display-name lang="es">PARAMOUNT</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/PARCH.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="PARAMOUNT NETWORK">
-    <display-name lang="es">PARAMOUNT NETWORK</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/PARCH.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="PLAYBOY TV">
-    <display-name lang="es">PLAYBOY TV</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/PBOY.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Real Madrid TV HD">
-    <display-name lang="es">Real Madrid TV HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="R. MADRID TV">
-    <display-name lang="es">R. MADRID TV</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="RT Esp">
-    <display-name lang="es">RT Esp</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/RUSSIA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="RT Esp HD">
-    <display-name lang="es">RT Esp HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/RUSSIA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="RT France HD">
-    <display-name lang="es">RT France HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/RTFRHD.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Sky News Intl">
-    <display-name lang="es">Sky News Intl</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/SKYNW.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="SUNDANCE TV">
-    <display-name lang="es">SUNDANCE TV</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/SUNDAN.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="SYFY">
-    <display-name lang="es">SYFY</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/SCI-FI.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="SYFY HD">
-    <display-name lang="es">SYFY HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/SCI-FI.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="TCM">
-    <display-name lang="es">TCM</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TCM.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="TCM HD">
-    <display-name lang="es">TCM HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TCM.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="TELECINCO">
-    <display-name lang="es">TELECINCO</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/T5.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="TELECINCO HD">
-    <display-name lang="es">TELECINCO HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/T5.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Telecinco HD">
-    <display-name lang="es">Telecinco HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/T5.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="TELESUR HD">
-    <display-name lang="es">TELESUR HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TLESUR.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="tdp HD">
-    <display-name lang="es">tdp HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TDEP.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="TELEDEPORTE">
-    <display-name lang="es">TELEDEPORTE</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TDEP.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Ten">
-    <display-name lang="es">Ten</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TEN.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="TOROS">
-    <display-name lang="es">TOROS</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CFERIA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="TOROS HD">
-    <display-name lang="es">TOROS HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/CFERIA.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="TRECE">
-    <display-name lang="es">TRECE</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/13TV.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="TNT">
-    <display-name lang="es">TNT</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TNT.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="TNT HD">
-    <display-name lang="es">TNT HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TNT.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="Canal 33">
-    <display-name lang="es">Super 3/33</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/C33.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="TV3">
-    <display-name lang="es">TV3</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TVC.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="TV3 CAT">
-    <display-name lang="es">TV3 CAT</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TV3CAT.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="TV5MONDE EUROPE">
-    <display-name lang="es">TV5MONDE EUROPE</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TV5.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="TV Record SD">
-    <display-name lang="es">TV Record SD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/TVREC.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="VIAJAR">
-    <display-name lang="es">VIAJAR</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/VJR.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="VIAJAR HD">
-    <display-name lang="es">VIAJAR HD</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/VJR.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="VH1">
-    <display-name lang="es">VH1</display-name>
-    <icon src="http://www.movistarplus.es/recorte/m-NEO/guiapc/VH1.png" />
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="ServusTV HD Deutschland">
-    <display-name lang="de">ServusTV HD Deutschland</display-name>
-    <url>http://www.tvtoday.de</url>
-  </channel>
-  <channel id="SPORT1">
-    <display-name lang="de">SPORT1</display-name>
-    <url>http://www.tvtoday.de</url>
-  </channel>
-  <channel id="ZDFinfo HD">
-    <display-name lang="de">ZDFinfo HD</display-name>
-    <icon src="http://www.zdf.de/static/0.62.1415/img/logos/epg/zdfinfo-black.svg" />
-    <url>http://www.zdf.de</url>
-  </channel>
-
+<?xml version="1.0"?>
+<settings>
+    <channel update="i" site="rtve.es" site_id="CRN_RADIO1" xmltv_id="Radio Nacional">Radio Nacional</channel>
+    <channel update="i" site="rtve.es" site_id="CRN_RADIOC" xmltv_id="Radio Clásica">Radio Clásica</channel>
+    <channel update="i" site="rtve.es" site_id="CRN_RADIO3" xmltv_id="Radio 3">Radio 3</channel>
+    <channel update="i" site="rtve.es" site_id="CRN_RADIO4" xmltv_id="Ràdio 4">Ràdio 4</channel>
+    <channel update="i" site="rtve.es" site_id="CRN_RADIO5" xmltv_id="Radio 5">Radio 5</channel>
+    <channel update="i" site="rtve.es" site_id="CRN_RADIOE" xmltv_id="Radio Exterior">Radio Exterior</channel>
+	  <channel update="i" site="programacion-radio.com" site_id="RNE_Radio_Nacional.html" xmltv_id="RNE Radio Nacional">RNE Radio Nacional</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Cadena_SER.html" xmltv_id="Cadena SER">Cadena SER</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Onda_Cero_Radio.html" xmltv_id="Onda Cero Radio">Onda Cero Radio</channel>
+    <channel update="i" site="programacion-radio.com" site_id="COPE.html" xmltv_id="COPE">COPE</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Punto_Radio.html" xmltv_id="Punto Radio">Punto Radio</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Radio_Intereconomia.html" xmltv_id="Radio Intereconomia">Radio Intereconomia</channel>
+    <channel update="i" site="programacion-radio.com" site_id="RNE_Radio_5_Todo_Noticias.html" xmltv_id="RNE Radio 5 Todo Noticias">RNE Radio 5 Todo Noticias</channel>
+    <channel update="i" site="programacion-radio.com" site_id="RNE_Radio_Clasica.html" xmltv_id="RNE Radio Clasica">RNE Radio Clasica</channel>
+    <channel update="i" site="programacion-radio.com" site_id="40_Principales.html" xmltv_id="40 Principales">40 Principales</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Europa_FM.html" xmltv_id="Europa FM">Europa FM</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Kiss_FM.html" xmltv_id="Kiss FM">Kiss FM</channel>
+    <channel update="i" site="programacion-radio.com" site_id="M80_Radio.html" xmltv_id="M80 Radio">M80 Radio</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Cadena_100.html" xmltv_id="Cadena 100">Cadena 100</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Cadena_Dial.html" xmltv_id="Cadena Dial">Cadena Dial</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Radiole.html" xmltv_id="Radiole">Radiole</channel>
+    <channel update="i" site="programacion-radio.com" site_id="RNE_Radio_3.html" xmltv_id="RNE Radio 3">RNE Radio 3</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Rock_and_Gol.html" xmltv_id="Rock and Gol">Rock and Gol</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Radio_Marca.html" xmltv_id="Radio Marca">Radio Marca</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Flaix_FM.html" xmltv_id="Flaix FM">Flaix FM</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Loca_FM.html" xmltv_id="Loca FM">Loca FM</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Maxima_FM.html" xmltv_id="Maxima FM">Maxima FM</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Radio_Maria.html" xmltv_id="Radio Maria">Radio Maria</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Radio_Tele_Taxi.html" xmltv_id="Radio Tele Taxi">Radio Tele Taxi</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Radio_Voz.html" xmltv_id="Radio Voz">Radio Voz</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Vaughan_Radio.html" xmltv_id="Vaughan Radio">Vaughan Radio</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Onda_Madrid.html" xmltv_id="Onda Madrid">Onda Madrid</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Catalunya_Cultura.html" xmltv_id="Catalunya Cultura">Catalunya Cultura</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Catalunya_Informacio.html" xmltv_id="Catalunya Informacio">Catalunya Informacio</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Catalunya_Musica.html" xmltv_id="Catalunya Musica">Catalunya Musica</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Catalunya_Radio.html" xmltv_id="Catalunya Radio">Catalunya Radio</channel>
+    <channel update="i" site="programacion-radio.com" site_id="COMRadio.html" xmltv_id="COMRadio">COMRadio</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Ona_Catalana.html" xmltv_id="Ona Catalana">Ona Catalana</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Radio_Flaixbac.html" xmltv_id="Radio Flaixbac">Radio Flaixbac</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Canal_Fiesta_Radio.html" xmltv_id="Canal Fiesta Radio">Canal Fiesta Radio</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Canal_Sur_Radio.html" xmltv_id="Canal Sur Radio">Canal Sur Radio</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Radio_Euskadi.html" xmltv_id="Radio Euskadi">Radio Euskadi</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Radio_Vitoria.html" xmltv_id="Radio Vitoria">Radio Vitoria</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Gaztea.html" xmltv_id="Gaztea">Gaztea</channel>
+    <channel update="i" site="programacion-radio.com" site_id="EITB_Musica.html" xmltv_id="EITB Musica">EITB Musica</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Euskadi_Irratia.html" xmltv_id="Euskadi Irratia">Euskadi Irratia</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Radio_Andalucia.html" xmltv_id="Radio Andalucia">Radio Andalucia</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Canal_Flamenco_Radio.html" xmltv_id="Canal Flamenco Radio">Canal Flamenco Radio</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Aragon_Radio.html" xmltv_id="Aragon Radio">Aragon Radio</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Onda_Regional_de_Murcia.html" xmltv_id="Onda Regional de Murcia">Onda Regional de Murcia</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Radio_Galega.html" xmltv_id="Radio Galega">Radio Galega</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Radio_Galega_Musica.html" xmltv_id="Radio Galega Musica">Radio Galega Musica</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Cadena_Si_Radio.html" xmltv_id="Cadena Si Radio">Cadena Si Radio</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Radio_del_Principado_de_Asturias.html" xmltv_id="Radio del Principado de Asturias">Radio del Principado de Asturias</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Rac_1.html" xmltv_id="Rac 1">Rac 1</channel>
+    <channel update="i" site="programacion-radio.com" site_id="Radio_Castilla_La_Mancha.html" xmltv_id="Radio Castilla La Mancha">Radio Castilla La Mancha</channel>
+    <channel update="i" site="rtve.es" site_id="CTV_LA1" xmltv_id="La 1">La 1</channel>
+    <channel update="i" site="rtve.es" site_id="CTV_LA2" xmltv_id="La 2">La 2</channel>
+    <channel update="i" site="rtve.es" site_id="CTV_C24H" xmltv_id="Canal 24H">Canal 24H</channel>
+    <channel update="i" site="rtve.es" site_id="CAD_TELEDE" xmltv_id="Teledeporte">Teledeporte</channel>
+    <channel update="i" site="rtve.es" site_id="CTV_CLANTV" xmltv_id="Clan TVE">Clan TVE</channel>
+    <channel update="i" site="rtve.es" site_id="CTV_LA1C" xmltv_id="La 1 Cataluña">La 1 Cataluña</channel>
+    <channel update="i" site="rtve.es" site_id="CTV_LA2C" xmltv_id="La 2 Cataluña">La 2 Cataluña</channel>
+    <channel update="i" site="rtve.es" site_id="CTV_TVEINT" xmltv_id="TVE Internacional Europa/África">TVE Internacional Europa/África</channel>
+    <channel update="i" site="rtve.es" site_id="CTV_TVEAM1" xmltv_id="TVE Internacional América I">TVE Internacional América I</channel>
+    <channel update="i" site="rtve.es" site_id="CTV_TVEAS1" xmltv_id="TVE Internacional Asia/Oceanía">TVE Internacional Asia/Oceanía</channel>
+    <channel update="i" site="rtve.es" site_id="CTV_TVEHD" xmltv_id="TVE HD">TVE HD</channel>
+    <channel update="i" site="rtve.es" site_id="COT_A3" xmltv_id="Antena3">Antena3</channel>
+    <channel update="i" site="rtve.es" site_id="COT_CUATRO" xmltv_id="Cuatro">Cuatro</channel>
+    <channel update="i" site="rtve.es" site_id="COT_T5" xmltv_id="Tele5">Tele5</channel>
+    <channel update="i" site="rtve.es" site_id="COT_LA6" xmltv_id="La Sexta">La Sexta</channel>
+    <channel update="i" site="rtve.es" site_id="COT_TM3" xmltv_id="Tele Madrid">Tele Madrid</channel>
+    <channel update="i" site="rtve.es" site_id="COT_CMT" xmltv_id="Castilla - La Mancha TV">Castilla - La Mancha TV</channel>
+    <channel update="i" site="rtve.es" site_id="COT_ARAGON" xmltv_id="Aragón Televisión">Aragón Televisión</channel>
+    <channel update="i" site="rtve.es" site_id="COT_ETB1" xmltv_id="ETB1">ETB1</channel>
+    <channel update="i" site="rtve.es" site_id="COT_ETB2" xmltv_id="ETB2">ETB2</channel>
+    <channel update="i" site="rtve.es" site_id="COT_CEXTRE" xmltv_id="Canal Extremadura TV">Canal Extremadura TV</channel>
+    <channel update="i" site="rtve.es" site_id="COT_CSUR" xmltv_id="Canal Sur">Canal Sur</channel>
+    <channel update="i" site="rtve.es" site_id="COT_TVCAN" xmltv_id="TV Canarias">TV Canarias</channel>
+    <channel update="i" site="rtve.es" site_id="COT_TPA" xmltv_id="TPA">TPA</channel>
+    <channel update="i" site="rtve.es" site_id="COT_C2A" xmltv_id="Canal Sur 2">Canal Sur 2</channel>
+    <channel update="i" site="rtve.es" site_id="COT_IB3" xmltv_id="IB 3">IB 3</channel>
+    <channel update="i" site="rtve.es" site_id="COT_TV3" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="rtve.es" site_id="COT_TVG" xmltv_id="TVG">TVG</channel>
+    <channel update="i" site="rtve.es" site_id="COT_NEO" xmltv_id="Antena.Neox">Antena.Neox</channel>
+    <channel update="i" site="rtve.es" site_id="COT_NOV" xmltv_id="Antena.Nova">Antena.Nova</channel>
+    <channel update="i" site="rtve.es" site_id="COT_FDF" xmltv_id="FDF Telecinco">FDF Telecinco</channel>
+    <channel update="i" site="rtve.es" site_id="COT_BOING" xmltv_id="Boing">Boing</channel>
+    <channel update="i" site="rtve.es" site_id="COT_DIVIN" xmltv_id="Divinity">Divinity</channel>
+    <channel update="i" site="rtve.es" site_id="COT_LAOTRA" xmltv_id="La Otra">La Otra</channel>
+    <channel update="i" site="rtve.es" site_id="COT_ENERG" xmltv_id="Energy">Energy</channel>
+    <channel update="i" site="rtve.es" site_id="COT_13TV" xmltv_id="13TV">13TV</channel>
+    <channel update="i" site="rtve.es" site_id="COT_DISCO" xmltv_id="Discovery Max">Discovery Max</channel>
+    <channel update="i" site="rtve.es" site_id="COT_PARAM" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="rtve.es" site_id="COT_ESPOR" xmltv_id="Esport 3">Esport 3</channel>
+    <channel update="i" site="rtve.es" site_id="COT_CYLTV" xmltv_id="CYLTV">CYLTV</channel>
+    <channel update="i" site="rtve.es" site_id="COT_INTER" xmltv_id="Intereconomía">Intereconomía</channel>
+    <channel update="i" site="rtve.es" site_id="COT_DISNE" xmltv_id="Disney Channel">Disney Channel</channel>
+	<channel update="i" site="orange.es.EK" site_id="1000##x_3d8fc71e7be8fe514fd74cc07" xmltv_id="Orange Series">Orange Series</channel>
+    <channel update="i" site="orange.es.EK" site_id="11038##xmseriesnegativo_12133a6bc335fc15e3da540e9" xmltv_id="Movistar Series">Movistar Series</channel>
+    <channel update="i" site="orange.es.EK" site_id="11001##x_34cd0943165848ef261522a99" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="orange.es.EK" site_id="11007##tnthd_x_9edaddcd3b02303685d80e39a" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="orange.es.EK" site_id="11002##x_black_9a0a8ab3f564cfb27d111c392" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="orange.es.EK" site_id="11003##x_e510c51817e571386f8b2cdfe" xmltv_id="Calle 13">Calle 13</channel>
+    <channel update="i" site="orange.es.EK" site_id="11011##x_98e4af460a2694fe4fcb3039d" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="orange.es.EK" site_id="11009##x_fcf2960c6652067aad9b60ebc" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="orange.es.EK" site_id="11006##x_cba8aa14de479448bc610b9b7" xmltv_id="COSMO">COSMO</channel>
+    <channel update="i" site="orange.es.EK" site_id="11008##x_black_4ea42a5cdb332eb6d5e5838ca" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="orange.es.EK" site_id="11005##x_dde0c997baec3438b3bfa0e25" xmltv_id="Comedy">Comedy</channel>
+    <channel update="i" site="orange.es.EK" site_id="11004##x_819736cb7b9cb3f13bde16e4f" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="orange.es.EK" site_id="11053##x_21c53db99c70d70f49a133e00" xmltv_id="Dark">Dark</channel>
+    <channel update="i" site="orange.es.EK" site_id="11010##x_a6d9cc32b26a9d0d442c27810" xmltv_id="Canal Hollywood">Canal Hollywood</channel>
+    <channel update="i" site="orange.es.EK" site_id="11012##x_fa98e6287f16390276d378bed" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="orange.es.EK" site_id="11052##x_def6ba5cbe35084391ddfc6f5" xmltv_id="Sundance">Sundance</channel>
+    <channel update="i" site="orange.es.EK" site_id="12032##x_bba51498887f4d2662dc79a60" xmltv_id="Paramount">Paramount</channel>
+    <channel update="i" site="orange.es.EK" site_id="11017##x_f7c0196bf18cd1000d1e7e856" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="orange.es.EK" site_id="1008##x_e67df2e2a46eaef12bd81af43" xmltv_id="NatGeo Wild">NatGeo Wild</channel>
+    <channel update="i" site="orange.es.EK" site_id="11018##x_22957bc40d8336a0dce3f5989" xmltv_id="Odisea">Odisea</channel>
+    <channel update="i" site="orange.es.EK" site_id="1039##x_af9a9ee6f26b53918ebdc8fe8" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="orange.es.EK" site_id="11019##x_ff426834d1e0acda32dbbf601" xmltv_id="Historia">Historia</channel>
+    <channel update="i" site="orange.es.EK" site_id="11015##disneyjr_channel_logo_apps_logo_b2fcc36d4252d44c0e4a8b447" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="orange.es.EK" site_id="11055##x_7c1a93e7603515a4283003886" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="orange.es.EK" site_id="11014##x_51f766a90587e22253a19d2e4" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="orange.es.EK" site_id="11016##x_f3af72c3d74c5b98d1fb2a9b3" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="orange.es.EK" site_id="1045##x_84cdfea9597a9b887cf3b6b82" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="orange.es.EK" site_id="1064##x_20d03c20dda3c73d6efb616ae" xmltv_id="Clan HD">Clan HD</channel>
+    <channel update="i" site="orange.es.EK" site_id="11063##x_8a8ba53028b4bde769d46f296" xmltv_id="Panda">Panda</channel>
+    <channel update="i" site="orange.es.EK" site_id="11064##x_89272bc348a967dc603b3d560" xmltv_id="Lolly Kids">Lolly Kids</channel>
+    <channel update="i" site="orange.es.EK" site_id="12035##viajar_x_00d6d0e407ce0ad7482c90d79" xmltv_id="Viajar">Viajar</channel>
+    <channel update="i" site="orange.es.EK" site_id="11020##canalcocinahd_x_3660b31a2d39dc0895c380b65" xmltv_id="Canal Cocina">Canal Cocina</channel>
+    <channel update="i" site="orange.es.EK" site_id="11027##decasanuevo_channel_logo_apps_logo_0b48373ad4f213902850bc3de" xmltv_id="Decasa">Decasa</channel>
+    <channel update="i" site="orange.es.EK" site_id="11070##x_a86a9be7dbeaee6ac1c893286" xmltv_id="Myzen TV">Myzen TV</channel>
+    <channel update="i" site="orange.es.EK" site_id="11071##x_845f29e37831fccd26bbc0004" xmltv_id="Fashion TV UHD">Fashion TV UHD</channel>
+    <channel update="i" site="orange.es.EK" site_id="11072##x_c6c7898d24819aba69344099c" xmltv_id="OUTtv">OUTtv</channel>
+    <channel update="i" site="orange.es.EK" site_id="11073##x_0197e63447bb832c04a27024f" xmltv_id="Escapa TV">Escapa TV</channel>
+    <channel update="i" site="orange.es.EK" site_id="11050##x_0ae9524054191dd9d9ff08aba" xmltv_id="MTV España">MTV España</channel>
+    <channel update="i" site="orange.es.EK" site_id="11061##x_4e9dbeaeef51d0c2b1feb0b50" xmltv_id="Ubeat">Ubeat</channel>
+    <channel update="i" site="orange.es.EK" site_id="11062##x_033b528b399670e296d837bfd" xmltv_id="Havoc">Havoc</channel>
+    <channel update="i" site="orange.es.EK" site_id="11051##x_4a78660049210e872e015ff43" xmltv_id="MTV Live">MTV Live</channel>
+    <channel update="i" site="orange.es.EK" site_id="1026##x_0020879276b58e056ed9aea70" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="orange.es.EK" site_id="1031##x_db8f1215cd407619a286816ad" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="orange.es.EK" site_id="11060##x_089e9ea6e386f66de9762b6f3" xmltv_id="Festival">Festival</channel>
+    <channel update="i" site="orange.es.EK" site_id="11058##x_74cf83606b27dc9a6cb7c4bc0" xmltv_id="All Flamenco">All Flamenco</channel>
+    <channel update="i" site="orange.es.EK" site_id="12002##x_96ae9ef4c9e06174b3f2322f2" xmltv_id="iConcerts">iConcerts</channel>
+    <channel update="i" site="orange.es.EK" site_id="12003##x_61e2ca835853aa6e3d0b5b420" xmltv_id="Classica">Classica</channel>
+    <channel update="i" site="orange.es.EK" site_id="12005##x_f2367adeeea8d271853585089" xmltv_id="Mezzo Live">Mezzo Live</channel>
+    <channel update="i" site="orange.es.EK" site_id="12004##x_138041a63f78317fadde11900" xmltv_id="Djazz">Djazz</channel>
+    <channel update="i" site="orange.es.EK" site_id="1035##x_b4e0f887b3797926215bd7e1f" xmltv_id="CanalSur Andalucía">CanalSur Andalucía</channel>
+    <channel update="i" site="orange.es.EK" site_id="1036##x_1428bbbe41c62edb722f0a7fc" xmltv_id="TV3CAT">TV3CAT</channel>
+    <channel update="i" site="orange.es.EK" site_id="1037##x_a17e6107ce9e1979d4b06bdfa" xmltv_id="ETBSat">ETBSat</channel>
+    <channel update="i" site="orange.es.EK" site_id="1038##x_7d9c2f184675b5590daba5f6b" xmltv_id="Galicia TV Europa">Galicia TV Europa</channel>
+    <channel update="i" site="orange.es.EK" site_id="1029##caracoltv_x_e4e26c697cbf02a548743aeec" xmltv_id="Caracol TV">Caracol TV</channel>
+    <channel update="i" site="orange.es.EK" site_id="11021##x_fa12d9e18a62937b9cbe11460" xmltv_id="BBC">BBC</channel>
+    <channel update="i" site="orange.es.EK" site_id="11022##x_9983a748d1d335b8c291af8f1" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="orange.es.EK" site_id="11023##x_56073b08d5e8957861621af89" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="orange.es.EK" site_id="11024##dw_channellogoapps_estandar_8cbfcaf2fb21a1b6f277cac5f" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="orange.es.EK" site_id="11025##x_8b18a895ff9aa613934f15ea4" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="orange.es.EK" site_id="11028##protv_channel_logo_apps_logo_29955431d85b717f65ea70a71" xmltv_id="Pro TV">Pro TV</channel>
+    <channel update="i" site="orange.es.EK" site_id="1033##x_9ea0ef4ad7b17c62e5597a68d" xmltv_id="Cazavisión">Cazavisión</channel>
+    <channel update="i" site="orange.es.EK" site_id="11035##x_9fd4c4a12b65a7c381731ebc7" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="orange.es.EK" site_id="11059##xeurosportnegativo_b7af6e1fded112ff409f1d5e4" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="orange.es.EK" site_id="1063##x_4eeac7c4fe1d4f1c95b384d9f" xmltv_id="TDP HD">TDP HD</channel>
+    <channel update="i" site="orange.es.EK" site_id="12006##x_afdad8d0fbb07aa4bb93463f0" xmltv_id="Fast&amp;Fun">Fast&amp;Fun</channel>
+    <channel update="i" site="orange.es.EK" site_id="12007##x_144f360c73742857e07195d87" xmltv_id="Fight Sports">Fight Sports</channel>
+    <channel update="i" site="orange.es.EK" site_id="12009##x_35ac30c5f96f0c96a20470139" xmltv_id="Extreme Sport">Extreme Sport</channel>
+    <channel update="i" site="orange.es.EK" site_id="12008##x_a129a90f43b6f5a7d6dcf43ad" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel update="i" site="orange.es.EK" site_id="11031##x_4d0454964e5539c86c2708d59" xmltv_id="Gol HD">Gol HD</channel>
+    <channel update="i" site="orange.es.EK" site_id="11013##x_14e7de48206d5201173d8e740" xmltv_id="Movistar LaLiga">Movistar LaLiga</channel>
+    <channel update="i" site="orange.es.EK" site_id="11026##x_86d287781675feeabdc403278" xmltv_id="Movistar LaLiga 1">Movistar LaLiga 1</channel>
+    <channel update="i" site="orange.es.EK" site_id="1023##x_f64f5b880c2a61675c0b38361" xmltv_id="Liga Campeones">Liga Campeones</channel>
+    <channel update="i" site="orange.es.EK" site_id="1057##x_e3e1fffbaa8b0573d284b1a65" xmltv_id="Movistar LaLiga 2">Movistar LaLiga 2</channel>
+    <channel update="i" site="orange.es.EK" site_id="1058##x_2d75bda0835941ae86d09294d" xmltv_id="Movistar LaLiga 3">Movistar LaLiga 3</channel>
+    <channel update="i" site="orange.es.EK" site_id="1059##x_a29dbb3282e6b6cd0839314c2" xmltv_id="Movistar LaLiga 4">Movistar LaLiga 4</channel>
+    <channel update="i" site="orange.es.EK" site_id="11046##x_a207b85649c027038759e0e90" xmltv_id="Movistar LaLiga 5">Movistar LaLiga 5</channel>
+    <channel update="i" site="orange.es.EK" site_id="11033##x_49744c090b85d6bf792b052a0" xmltv_id="Movistar LaLiga 6">Movistar LaLiga 6</channel>
+    <channel update="i" site="orange.es.EK" site_id="11034##x_1b7b91bfc1b0fb47cb25e90c1" xmltv_id="Movistar LaLiga 7">Movistar LaLiga 7</channel>
+    <channel update="i" site="orange.es.EK" site_id="11041##xpng_37a6b86f4101b6030b589aa1b" xmltv_id="Movistar LaLiga 8">Movistar LaLiga 8</channel>
+    <channel update="i" site="orange.es.EK" site_id="11032##x_8d9ec36c30c514592fd812d30" xmltv_id="Movistar LaLiga 9">Movistar LaLiga 9</channel>
+    <channel update="i" site="orange.es.EK" site_id="11039##x_8f114335643fe926174541aac" xmltv_id="Movistar LaLiga 10">Movistar LaLiga 10</channel>
+    <channel update="i" site="orange.es.EK" site_id="1050##x_d896ad4950833a2ef9898f8fa" xmltv_id="Liga Campeones 1">Liga Campeones 1</channel>
+    <channel update="i" site="orange.es.EK" site_id="1051##x_38e6bd4e607c57e28720aad97" xmltv_id="Liga Campeones 2">Liga Campeones 2</channel>
+    <channel update="i" site="orange.es.EK" site_id="1052##x_b2bda7db5761a51ea8b1da60d" xmltv_id="Liga Campeones 3">Liga Campeones 3</channel>
+    <channel update="i" site="orange.es.EK" site_id="1053##x_df22373a58a4d672adc9b6197" xmltv_id="Liga Campeones 4">Liga Campeones 4</channel>
+    <channel update="i" site="orange.es.EK" site_id="1054##x_8d660b45d04a21205e4139459" xmltv_id="Liga Campeones 5">Liga Campeones 5</channel>
+    <channel update="i" site="orange.es.EK" site_id="1055##x_4e8d6039d2102592caaedaab4" xmltv_id="Liga Campeones 6">Liga Campeones 6</channel>
+    <channel update="i" site="orange.es.EK" site_id="1056##x_4400410addb3101aac9d81cd8" xmltv_id="Liga Campeones 7">Liga Campeones 7</channel>
+    <channel update="i" site="orange.es.EK" site_id="11036##x_e2d7b25653f9cbc6295dc7125" xmltv_id="Liga Campeones 8">Liga Campeones 8</channel>
+    <channel update="i" site="orange.es.EK" site_id="11065##x_fbceb9643c81f7fc46cad0a6e" xmltv_id="Liga Campeones 9">Liga Campeones 9</channel>
+    <channel update="i" site="orange.es.EK" site_id="11066##x_1c1bf920a2e51fe1e62a502ec" xmltv_id="Liga Campeones 10">Liga Campeones 10</channel>
+    <channel update="i" site="orange.es.EK" site_id="11067##x_fd9b26349dad093457def26d5" xmltv_id="Liga Campeones 11">Liga Campeones 11</channel>
+    <channel update="i" site="orange.es.EK" site_id="11068##x_a6ba0bd0b73a909d468921232" xmltv_id="Liga Campeones 12">Liga Campeones 12</channel>
+    <channel update="i" site="orange.es.EK" site_id="11049##x_a0880c18b2f4ad254948221e5" xmltv_id="Intereconomía TV">Intereconomía TV</channel>
+    <channel update="i" site="orange.es.EK" site_id="50001##x_2014362ae1936296451130a1d" xmltv_id="Prueba 2">Prueba 2</channel>
+	<channel update="i" site="movistarplus.es" site_id="TVE" xmltv_id="LA 1">LA 1</channel>
+    <channel update="i" site="movistarplus.es" site_id="LA2" xmltv_id="LA 2">LA 2</channel>
+    <channel update="i" site="movistarplus.es" site_id="A3" xmltv_id="Antena 3">Antena 3</channel>
+    <channel update="i" site="movistarplus.es" site_id="C4" xmltv_id="Cuatro">Cuatro</channel>
+    <channel update="i" site="movistarplus.es" site_id="T5" xmltv_id="Telecinco">Telecinco</channel>
+    <channel update="i" site="movistarplus.es" site_id="SEXTA" xmltv_id="La Sexta">La Sexta</channel>
+    <channel update="i" site="movistarplus.es" site_id="MV3" xmltv_id="#0">#0</channel>
+    <channel update="i" site="movistarplus.es" site_id="VAMOSD" xmltv_id="#Vamos">#Vamos</channel>
+    <channel update="i" site="movistarplus.es" site_id="TELMAD" xmltv_id="Telemadrid">Telemadrid</channel>
+    <channel update="i" site="movistarplus.es" site_id="CSURHD" xmltv_id="Canal Sur HD">Canal Sur HD</channel>
+    <channel update="i" site="movistarplus.es" site_id="CYLTV" xmltv_id="La 7">La 7</channel>
+    <channel update="i" site="movistarplus.es" site_id="ETB1" xmltv_id="ETB 1">ETB 1</channel>
+    <channel update="i" site="movistarplus.es" site_id="EXTRE" xmltv_id="Canal Extremadura">Canal Extremadura</channel>
+    <channel update="i" site="movistarplus.es" site_id="IB3" xmltv_id="IB3 RTV Illes Balears">IB3 RTV Illes Balears</channel>
+    <channel update="i" site="movistarplus.es" site_id="TPA" xmltv_id="TPA">TPA</channel>
+    <channel update="i" site="movistarplus.es" site_id="TV3CAT" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="movistarplus.es" site_id="CANSUR" xmltv_id="Canal Sur">Canal Sur</channel>
+    <channel update="i" site="movistarplus.es" site_id="CANAR" xmltv_id="TV Canaria">TV Canaria</channel>
+    <channel update="i" site="movistarplus.es" site_id="ARAGTV" xmltv_id="Aragón TV">Aragón TV</channel>
+    <channel update="i" site="movistarplus.es" site_id="APUNT" xmltv_id="À Punt">À Punt</channel>
+    <channel update="i" site="movistarplus.es" site_id="7TVMUR" xmltv_id="7 TV Región Murcia">7 TV Región Murcia</channel>
+    <channel update="i" site="movistarplus.es" site_id="TVGAL" xmltv_id="TVG - TV Galicia">TVG - TV Galicia</channel>
+    <channel update="i" site="movistarplus.es" site_id="CASMAN" xmltv_id="Castilla la Mancha TV">Castilla la Mancha TV</channel>
+    <channel update="i" site="movistarplus.es" site_id="OTRA" xmltv_id="La Otra">La Otra</channel>
+    <channel update="i" site="movistarplus.es" site_id="MEDITE" xmltv_id="TV Mediterráneo">TV Mediterráneo</channel>
+    <channel update="i" site="movistarplus.es" site_id="ETB2" xmltv_id="ETB 2">ETB 2</channel>
+    <channel update="i" site="movistarplus.es" site_id="ANDATV" xmltv_id="Andalucía TV">Andalucía TV</channel>
+    <channel update="i" site="movistarplus.es" site_id="8TV" xmltv_id="8 tv">8 tv</channel>
+    <channel update="i" site="movistarplus.es" site_id="CPSER" xmltv_id="Movistar Series">Movistar Series</channel>
+    <channel update="i" site="movistarplus.es" site_id="MV2" xmltv_id="M. Seriesmanía">M. Seriesmanía</channel>
+    <channel update="i" site="movistarplus.es" site_id="FOXGE" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="movistarplus.es" site_id="AXN" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="movistarplus.es" site_id="TNT" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="movistarplus.es" site_id="PCM" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="movistarplus.es" site_id="CL13" xmltv_id="Calle 13">Calle 13</channel>
+    <channel update="i" site="movistarplus.es" site_id="COSMO" xmltv_id="COSMO">COSMO</channel>
+    <channel update="i" site="movistarplus.es" site_id="AMC" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="movistarplus.es" site_id="FOXCR" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="movistarplus.es" site_id="SET" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="movistarplus.es" site_id="SCI-FI" xmltv_id="SYFY">SYFY</channel>
+    <channel update="i" site="movistarplus.es" site_id="MTV" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="movistarplus.es" site_id="FDFIC" xmltv_id="Factoría de Ficción">Factoría de Ficción</channel>
+    <channel update="i" site="movistarplus.es" site_id="NEOX" xmltv_id="Neox">Neox</channel>
+    <channel update="i" site="movistarplus.es" site_id="ATRESS" xmltv_id="Atreseries">Atreseries</channel>
+    <channel update="i" site="movistarplus.es" site_id="ENERGY" xmltv_id="Energy">Energy</channel>
+    <channel update="i" site="movistarplus.es" site_id="MV1" xmltv_id="Movistar Estrenos">Movistar Estrenos</channel>
+    <channel update="i" site="movistarplus.es" site_id="CPXTRA" xmltv_id="M.CineDoc&amp;Roll">M.CineDoc&amp;Roll</channel>
+    <channel update="i" site="movistarplus.es" site_id="MDISNE" xmltv_id="M. Disney">M. Disney</channel>
+    <channel update="i" site="movistarplus.es" site_id="CPACCI" xmltv_id="Movistar Acción">Movistar Acción</channel>
+    <channel update="i" site="movistarplus.es" site_id="CPCOME" xmltv_id="Movistar Comedia">Movistar Comedia</channel>
+    <channel update="i" site="movistarplus.es" site_id="CPCOLE" xmltv_id="M. Drama">M. Drama</channel>
+    <channel update="i" site="movistarplus.es" site_id="DCESP" xmltv_id="Movistar Cine Español">Movistar Cine Español</channel>
+    <channel update="i" site="movistarplus.es" site_id="TCM" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="movistarplus.es" site_id="HOLLYW" xmltv_id="Hollywood">Hollywood</channel>
+    <channel update="i" site="movistarplus.es" site_id="SUNDAN" xmltv_id="Sundance">Sundance</channel>
+    <channel update="i" site="movistarplus.es" site_id="DARK" xmltv_id="DARK">DARK</channel>
+    <channel update="i" site="movistarplus.es" site_id="13TV" xmltv_id="13 TV">13 TV</channel>
+    <channel update="i" site="movistarplus.es" site_id="TEN" xmltv_id="Ten">Ten</channel>
+    <channel update="i" site="movistarplus.es" site_id="PARCH" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="movistarplus.es" site_id="CPPART" xmltv_id="Movistar Partidazo">Movistar Partidazo</channel>
+    <channel update="i" site="movistarplus.es" site_id="BELIGA" xmltv_id="Bein LaLiga">Bein LaLiga</channel>
+    <channel update="i" site="movistarplus.es" site_id="BELIG1" xmltv_id="BeinLaLiga 1">BeinLaLiga 1</channel>
+    <channel update="i" site="movistarplus.es" site_id="LIGA2" xmltv_id="LaLiga 123 TV">LaLiga 123 TV</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHAPIO" xmltv_id="M. Liga de Campeones">M. Liga de Campeones</channel>
+    <channel update="i" site="movistarplus.es" site_id="CPDEP" xmltv_id="Movistar Deportes">Movistar Deportes</channel>
+    <channel update="i" site="movistarplus.es" site_id="ARTHUR" xmltv_id="M. Wimbledon">M. Wimbledon</channel>
+    <channel update="i" site="movistarplus.es" site_id="MVF1" xmltv_id="Movistar Fórmula 1">Movistar Fórmula 1</channel>
+    <channel update="i" site="movistarplus.es" site_id="GOLF%2B" xmltv_id="Movistar Golf">Movistar Golf</channel>
+    <channel update="i" site="movistarplus.es" site_id="ESP" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="movistarplus.es" site_id="ESP2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="movistarplus.es" site_id="GOL" xmltv_id="GOL">GOL</channel>
+    <channel update="i" site="movistarplus.es" site_id="TDEP" xmltv_id="Teledeporte">Teledeporte</channel>
+    <channel update="i" site="movistarplus.es" site_id="CAZPES" xmltv_id="Caza y Pesca">Caza y Pesca</channel>
+    <channel update="i" site="movistarplus.es" site_id="IBERAL" xmltv_id="Iberalia TV">Iberalia TV</channel>
+    <channel update="i" site="movistarplus.es" site_id="CFERIA" xmltv_id="Toros">Toros</channel>
+    <channel update="i" site="movistarplus.es" site_id="REALM" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
+    <channel update="i" site="movistarplus.es" site_id="BARNA" xmltv_id="Barça TV">Barça TV</channel>
+    <channel update="i" site="movistarplus.es" site_id="NATGEO" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="movistarplus.es" site_id="NATGW" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="movistarplus.es" site_id="HIST" xmltv_id="Historia">Historia</channel>
+    <channel update="i" site="movistarplus.es" site_id="DCR" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="movistarplus.es" site_id="ODISEA" xmltv_id="Odisea">Odisea</channel>
+    <channel update="i" site="movistarplus.es" site_id="BIOGRA" xmltv_id="Blaze">Blaze</channel>
+    <channel update="i" site="movistarplus.es" site_id="VJR" xmltv_id="Viajar">Viajar</channel>
+    <channel update="i" site="movistarplus.es" site_id="DCRMAX" xmltv_id="Discovery Max">Discovery Max</channel>
+    <channel update="i" site="movistarplus.es" site_id="CYM" xmltv_id="Crimen + Investigación">Crimen + Investigación</channel>
+    <channel update="i" site="movistarplus.es" site_id="CCTV-E" xmltv_id="CGTN Español">CGTN Español</channel>
+    <channel update="i" site="movistarplus.es" site_id="CACOC" xmltv_id="Canal Cocina">Canal Cocina</channel>
+    <channel update="i" site="movistarplus.es" site_id="DECASA" xmltv_id="Canal Decasa">Canal Decasa</channel>
+    <channel update="i" site="movistarplus.es" site_id="DKISS" xmltv_id="DKISS">DKISS</channel>
+    <channel update="i" site="movistarplus.es" site_id="DIVINI" xmltv_id="Divinity">Divinity</channel>
+    <channel update="i" site="movistarplus.es" site_id="NOVA" xmltv_id="Nova">Nova</channel>
+    <channel update="i" site="movistarplus.es" site_id="MEGA" xmltv_id="Mega">Mega</channel>
+    <channel update="i" site="movistarplus.es" site_id="BEMAD" xmltv_id="BE MAD">BE MAD</channel>
+    <channel update="i" site="movistarplus.es" site_id="GARAGE" xmltv_id="El Garage TV">El Garage TV</channel>
+    <channel update="i" site="movistarplus.es" site_id="ORBE21" xmltv_id="Canal Orbe 21">Canal Orbe 21</channel>
+    <channel update="i" site="movistarplus.es" site_id="FUTREP" xmltv_id="Canal Fútbol Replay">Canal Fútbol Replay</channel>
+    <channel update="i" site="movistarplus.es" site_id="BABY" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="movistarplus.es" site_id="PLAYDC" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="movistarplus.es" site_id="PANDA" xmltv_id="Canal Panda">Canal Panda</channel>
+    <channel update="i" site="movistarplus.es" site_id="NICKJR" xmltv_id="NICK JR">NICK JR</channel>
+    <channel update="i" site="movistarplus.es" site_id="NICK" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="movistarplus.es" site_id="DCHXD" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="movistarplus.es" site_id="DCH" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="movistarplus.es" site_id="BOING" xmltv_id="Boing">Boing</channel>
+    <channel update="i" site="movistarplus.es" site_id="CLANTV" xmltv_id="Clan TVE">Clan TVE</channel>
+    <channel update="i" site="movistarplus.es" site_id="ETB3" xmltv_id="ETB 3">ETB 3</channel>
+    <channel update="i" site="movistarplus.es" site_id="VH1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="movistarplus.es" site_id="M2" xmltv_id="MTV ROCKS">MTV ROCKS</channel>
+    <channel update="i" site="movistarplus.es" site_id="MEZZO" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="movistarplus.es" site_id="MEZOHD" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="movistarplus.es" site_id="CLASSD" xmltv_id="Classica">Classica</channel>
+    <channel update="i" site="movistarplus.es" site_id="CLASSI" xmltv_id="Classica HD">Classica HD</channel>
+    <channel update="i" site="movistarplus.es" site_id="PBOY" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="movistarplus.es" site_id="24H" xmltv_id="24 Horas">24 Horas</channel>
+    <channel update="i" site="movistarplus.es" site_id="BBC" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="movistarplus.es" site_id="CNN" xmltv_id="CNN Int">CNN Int</channel>
+    <channel update="i" site="movistarplus.es" site_id="FOXNWS" xmltv_id="Fox News">Fox News</channel>
+    <channel update="i" site="movistarplus.es" site_id="ENW" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="movistarplus.es" site_id="ALJAZE" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="movistarplus.es" site_id="FRA+EN" xmltv_id="FRANCE 24">FRANCE 24</channel>
+    <channel update="i" site="movistarplus.es" site_id="RTESP" xmltv_id="RT Español">RT Español</channel>
+    <channel update="i" site="movistarplus.es" site_id="NBC" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="movistarplus.es" site_id="TV5" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="movistarplus.es" site_id="BL" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="movistarplus.es" site_id="SKYNW" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="movistarplus.es" site_id="INTECO" xmltv_id="Intereconomía TV">Intereconomía TV</channel>
+    <channel update="i" site="movistarplus.es" site_id="LIBDIG" xmltv_id="Libertad Digital">Libertad Digital</channel>
+    <channel update="i" site="movistarplus.es" site_id="RUSSIA" xmltv_id="RT">RT</channel>
+    <channel update="i" site="movistarplus.es" site_id="RTFRHD" xmltv_id="RT Francia HD">RT Francia HD</channel>
+    <channel update="i" site="movistarplus.es" site_id="CNCWOR" xmltv_id="CNC World">CNC World</channel>
+    <channel update="i" site="movistarplus.es" site_id="TELEFE" xmltv_id="Telefe Internacional">Telefe Internacional</channel>
+    <channel update="i" site="movistarplus.es" site_id="GALAV" xmltv_id="Canal de las Estrellas">Canal de las Estrellas</channel>
+    <channel update="i" site="movistarplus.es" site_id="TVREC" xmltv_id="TV RECORD">TV RECORD</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHILE" xmltv_id="TV Chile">TV Chile</channel>
+    <channel update="i" site="movistarplus.es" site_id="COLOMB" xmltv_id="TV Colombia">TV Colombia</channel>
+    <channel update="i" site="movistarplus.es" site_id="CUBAV" xmltv_id="Cubavisión">Cubavisión</channel>
+    <channel update="i" site="movistarplus.es" site_id="TLESUR" xmltv_id="Telesur">Telesur</channel>
+    <channel update="i" site="movistarplus.es" site_id="NHK" xmltv_id="NHK World TV">NHK World TV</channel>
+    <channel update="i" site="movistarplus.es" site_id="EWTN" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="movistarplus.es" site_id="ARIRAN" xmltv_id="ARIRANG TV">ARIRANG TV</channel>
+    <channel update="i" site="movistarplus.es" site_id="ANTV" xmltv_id="Canal Sur Andalucía">Canal Sur Andalucía</channel>
+    <channel update="i" site="movistarplus.es" site_id="TVG" xmltv_id="TV Galicia">TV Galicia</channel>
+    <channel update="i" site="movistarplus.es" site_id="EXTREM" xmltv_id="Canal Extremadura Sat">Canal Extremadura Sat</channel>
+    <channel update="i" site="movistarplus.es" site_id="TVC" xmltv_id="TV3 Cat">TV3 Cat</channel>
+    <channel update="i" site="movistarplus.es" site_id="ETB" xmltv_id="ETB Sat">ETB Sat</channel>
+    <channel update="i" site="movistarplus.es" site_id="ARAGON" xmltv_id="Aragón TV Int">Aragón TV Int</channel>
+    <channel update="i" site="movistarplus.es" site_id="C33" xmltv_id="Canal 33">Canal 33</channel>
+    <channel update="i" site="movistarplus.es" site_id="ESP3" xmltv_id="Esport 3">Esport 3</channel>
+    <channel update="i" site="movistarplus.es" site_id="3_24" xmltv_id="3 24">3 24</channel>
+    <channel update="i" site="movistarplus.es" site_id="BTV" xmltv_id="Betevé">Betevé</channel>
+    <channel update="i" site="movistarplus.es" site_id="TQ1" xmltv_id="Alquiler 1">Alquiler 1</channel>
+    <channel update="i" site="movistarplus.es" site_id="TQ2" xmltv_id="Alquiler 2">Alquiler 2</channel>
+    <channel update="i" site="movistarplus.es" site_id="TQ3" xmltv_id="Alquiler 3">Alquiler 3</channel>
+    <channel update="i" site="movistarplus.es" site_id="TQ4" xmltv_id="Alquiler 4">Alquiler 4</channel>
+    <channel update="i" site="movistarplus.es" site_id="TQ5" xmltv_id="Alquiler 5">Alquiler 5</channel>
+    <channel update="i" site="movistarplus.es" site_id="TQ6" xmltv_id="Alquiler 6">Alquiler 6</channel>
+    <channel update="i" site="movistarplus.es" site_id="HDTQ10" xmltv_id="Alquiler HD">Alquiler HD</channel>
+    <channel update="i" site="movistarplus.es" site_id="HDTQ2" xmltv_id="Alquiler 2 HD">Alquiler 2 HD</channel>
+    <channel update="i" site="movistarplus.es" site_id="PRPA4K" xmltv_id="M. Partidazo UHD">M. Partidazo UHD</channel>
+    <channel update="i" site="movistarplus.es" site_id="BELI4K" xmltv_id="Bein LaLiga 4K">Bein LaLiga 4K</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHAUHD" xmltv_id="M. Liga de Campeones UHD">M. Liga de Campeones UHD</channel>
+    <channel update="i" site="movistarplus.es" site_id="MF1UHD" xmltv_id="M. Fórmula 1 UHD">M. Fórmula 1 UHD</channel>
+    <channel update="i" site="movistarplus.es" site_id="BARNHD" xmltv_id="Barça TV HD">Barça TV HD</channel>
