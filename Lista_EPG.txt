@@ -1,4 +1,4 @@
-description=Lista_EPG 
+description=Leopardo_EPG 
 protocol=xmltv
 
 preferred_language=spa
