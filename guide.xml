@@ -6,7 +6,7 @@
     <channel update="i" site="rtve.es" site_id="CRN_RADIO4" xmltv_id="Ràdio 4">Ràdio 4</channel>
     <channel update="i" site="rtve.es" site_id="CRN_RADIO5" xmltv_id="Radio 5">Radio 5</channel>
     <channel update="i" site="rtve.es" site_id="CRN_RADIOE" xmltv_id="Radio Exterior">Radio Exterior</channel>
-	  <channel update="i" site="programacion-radio.com" site_id="RNE_Radio_Nacional.html" xmltv_id="RNE Radio Nacional">RNE Radio Nacional</channel>
+    <channel update="i" site="programacion-radio.com" site_id="RNE_Radio_Nacional.html" xmltv_id="RNE Radio Nacional">RNE Radio Nacional</channel>
     <channel update="i" site="programacion-radio.com" site_id="Cadena_SER.html" xmltv_id="Cadena SER">Cadena SER</channel>
     <channel update="i" site="programacion-radio.com" site_id="Onda_Cero_Radio.html" xmltv_id="Onda Cero Radio">Onda Cero Radio</channel>
     <channel update="i" site="programacion-radio.com" site_id="COPE.html" xmltv_id="COPE">COPE</channel>
@@ -98,7 +98,7 @@
     <channel update="i" site="rtve.es" site_id="COT_CYLTV" xmltv_id="CYLTV">CYLTV</channel>
     <channel update="i" site="rtve.es" site_id="COT_INTER" xmltv_id="Intereconomía">Intereconomía</channel>
     <channel update="i" site="rtve.es" site_id="COT_DISNE" xmltv_id="Disney Channel">Disney Channel</channel>
-	<channel update="i" site="orange.es.EK" site_id="1000##x_3d8fc71e7be8fe514fd74cc07" xmltv_id="Orange Series">Orange Series</channel>
+    <channel update="i" site="orange.es.EK" site_id="1000##x_3d8fc71e7be8fe514fd74cc07" xmltv_id="Orange Series">Orange Series</channel>
     <channel update="i" site="orange.es.EK" site_id="11038##xmseriesnegativo_12133a6bc335fc15e3da540e9" xmltv_id="Movistar Series">Movistar Series</channel>
     <channel update="i" site="orange.es.EK" site_id="11001##x_34cd0943165848ef261522a99" xmltv_id="Fox">Fox</channel>
     <channel update="i" site="orange.es.EK" site_id="11007##tnthd_x_9edaddcd3b02303685d80e39a" xmltv_id="TNT">TNT</channel>
